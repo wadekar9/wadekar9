@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nayan Wadekar</h1>
 <h3 align="center">A passionate React Native developer from India</h3>
 
-- 🔭 I’m currently working on [Repair-it](https://play.google.com/store/apps/details?id=com.mechwaretech.repairituser&hl=en-IN)
-
 - 🌱 I’m currently learning **Typescript, Android**
 
 <h3 align="left">Connect with me:</h3>
