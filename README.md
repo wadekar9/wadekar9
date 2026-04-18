@@ -1,43 +1,83 @@
-<h1 align="center">Hi, I'm Nayan Wadekar</h1>
-<h3 align="center">React Native Engineer | Built 20+ Mobile Apps | 560K+ Downloads</h3>
+<h1 align="center">Nayan Wadekar</h1>
+<p align="center">Mobile Engineer focused on building fast, reliable, and scalable React Native applications</p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.englishmuni"><img src="https://img.shields.io/badge/Spoken%20English%20Guru-500K%2B%20Downloads-success?style=flat" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.beedee.app"><img src="https://img.shields.io/badge/Beedee-50K%2B%20Downloads-blue?style=flat" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.arifauto.hibro"><img src="https://img.shields.io/badge/HiBro-10K%2B%20Downloads-brightgreen?style=flat" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.arifauto.hibro"><img src="https://img.shields.io/badge/HiBro-Live-brightgreen" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.thinkheadlabs.passwordmanager.credentialsmanager.vault.silentsafe"><img src="https://img.shields.io/badge/SilentSafe-Live-blue" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.thinkheadlabs.convertiox.compressfile.file_converter.tools.imagetopdf.document.ocrtext.pdftools"><img src="https://img.shields.io/badge/ConvertioX-Live-orange" /></a>
 </p>
+
+---
+
+## About
+
+I work on mobile apps that need to perform well in real-world conditions — not just demos.  
+Most of my work revolves around React Native, where I focus on keeping apps smooth, predictable, and easy to scale over time.
+
+I’ve built and shipped multiple applications across different domains, including real-time communication, utilities, and user-facing platforms. My approach is usually the same: keep the architecture simple, avoid unnecessary complexity, and make sure the user experience feels fast and consistent.
+
+---
+
+## What I Typically Work On
+
+- Designing and implementing cross-platform mobile features  
+- Building pixel-accurate, responsive UI from design systems  
+- Managing state, data flow, and complex user interactions  
+- Integrating APIs, backend services, and third-party SDKs  
+- Improving app performance (render cycles, load time, memory usage)  
+- Structuring scalable and maintainable codebases  
+- Preparing and deploying apps to Play Store and App Store  
+
+---
+
+## Selected Apps
+
+### HiBro  
+Real-time voice-based learning app where users connect and communicate instantly.  
+Built around low-latency communication using ZegoCloud and Firebase.
+
+→ https://play.google.com/store/apps/details?id=com.arifauto.hibro  
+
+---
+
+### Silent Safe  
+A local-first password manager focused on security and privacy.  
+Uses encryption and biometric authentication for secure access.
+
+→ https://play.google.com/store/apps/details?id=com.thinkheadlabs.passwordmanager.credentialsmanager.vault.silentsafe  
+
+---
+
+### ConvertioX  
+A utility app for handling file conversions, compression, and OCR workflows on mobile.  
+Designed to manage multiple file operations while keeping the UI responsive.
+
+→ https://play.google.com/store/apps/details?id=com.thinkheadlabs.convertiox.compressfile.file_converter.tools.imagetopdf.document.ocrtext.pdftools  
+
+---
+
+## Stack I Use Often
+
+- React Native, Expo  
+- TypeScript, JavaScript  
+- Redux Toolkit, Zustand, React Query  
+- Firebase (Auth, Firestore, FCM)  
+- Reanimated, MMKV  
+- Git, Android Studio, Xcode  
+
+---
+
+## Stats
 
 <p align="center">
-  <strong>Expert in building production-ready MVPs for startups & enterprises</strong> — from idea to Play Store in couple of weeks.
+  <img src="https://github-readme-stats.vercel.app/api?username=wadekar9&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wadekar9&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-**Built and shipped 20+ React Native apps** across e-commerce, social (dating & community), finance, healthcare, EdTech, and real-time platforms  
-**Specialize in pixel-perfect UIs, Firebase at scale, 60fps animations, and real-time voice/video systems**  
-**Currently leading mobile development at Tecocraft Infusion (Bengaluru)** — mentoring juniors, cutting delivery time by 40%  
-Recently built a **Firebase Dynamic Links alternative (SaaS prototype)** — deep linking + analytics  
+---
 
-### Tech Stack
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,kotlin,firebase,redux,jest,sqlite,svg,git,figma,androidstudio,gradle,vscode,postman,npm,yarn,svg,tailwind,notion" />
+## Notes
 
-### Featured Live Apps
-| App                        | Downloads | Domain       | Key Tech & Impact |
-|----------------------------|-----------|--------------|-------------------|
-| [Spoken English Guru](https://play.google.com/store/apps/details?id=com.englishmuni) | **500K+** | EdTech       | ZegoCloud real-time voice, React Query, offline-first |
-| [Beedee](https://play.google.com/store/apps/details?id=com.beedee.app)          | **50K+**  | Social Dating| Firebase Auth + OTP, Reanimated swipe UX, 60fps |
-| [HiBro](https://play.google.com/store/apps/details?id=com.arifauto.hibro)       | **10K+**  | EdTech       | Expo Router, MMKV storage, <1.8s cold start |
+I’m interested in building systems that are simple to understand but hold up well as they grow.  
+Lately, I’ve been spending more time thinking about performance, app architecture, and improving development workflows.
 
-### Pinned Projects
-Explore code & live demos below  
-- High-scale social & real-time apps  
-- E-commerce flows, premium UI polish  
-- Modern React Native tooling (TypeScript, React Query, Zustand, CI/CD)
-
-### GitHub Stats
-![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wadekar9&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wadekar9&layout=compact&theme=tokyonight&hide_border=true)
-
-### Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nayan-wadekar-855253197) 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:npwadekar7@gmail.com) 
-
-• Available for full-time React Native roles
