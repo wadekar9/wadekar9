@@ -30,32 +30,6 @@ I’ve built and shipped multiple applications across different domains, includi
 
 ---
 
-## Selected Apps
-
-### HiBro  
-Real-time voice-based learning app where users connect and communicate instantly.  
-Built around low-latency communication using ZegoCloud and Firebase.
-
-→ https://play.google.com/store/apps/details?id=com.arifauto.hibro  
-
----
-
-### Silent Safe  
-A local-first password manager focused on security and privacy.  
-Uses encryption and biometric authentication for secure access.
-
-→ https://play.google.com/store/apps/details?id=com.thinkheadlabs.passwordmanager.credentialsmanager.vault.silentsafe  
-
----
-
-### ConvertioX  
-A utility app for handling file conversions, compression, and OCR workflows on mobile.  
-Designed to manage multiple file operations while keeping the UI responsive.
-
-→ https://play.google.com/store/apps/details?id=com.thinkheadlabs.convertiox.compressfile.file_converter.tools.imagetopdf.document.ocrtext.pdftools  
-
----
-
 ## Stack I Use Often
 
 - React Native, Expo  
